@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kbc.gotrack365.com/sitemap.xml
