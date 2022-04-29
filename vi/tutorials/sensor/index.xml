@@ -3,6 +3,7 @@ Bước 1 - Chuẩn bị #
 Ensure wiring Fuel Sensor to AIN1 signal of FMB125.
 Ensure Power and SIM is normal.
 Set IP, Port for the device sending to GoTrack Platform
-Bước 2 - Cài đặt tín hiệu Analog #
-Check Analog 1 value is available on the Platform by creating a sensor.
-If the value is not available, send GPRS command to enable Analog Input Parameter:</description></item></channel></rss>
+Bước 2 - Cài đặt tín hiệu cảm biến #
+If using Analog Sensor, send GPRS command to enable Analog Input Parameter:
+setparam 50180:1
+If using RS232 Sensor, send GPRS command to enable Analog Input Parameter:</description></item></channel></rss>

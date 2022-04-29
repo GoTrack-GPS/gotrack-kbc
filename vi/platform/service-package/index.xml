@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gói dịch vụ on</title><link>https://kb.gotrack365.com/vi/platform/service-package/</link><description>Recent content in Gói dịch vụ on</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 19 Apr 2022 11:04:24 +0700</lastBuildDate><atom:link href="https://kb.gotrack365.com/vi/platform/service-package/index.xml" rel="self" type="application/rss+xml"/><item><title>Thuật ngữ</title><link>https://kb.gotrack365.com/vi/platform/service-package/terms/</link><pubDate>Tue, 19 Apr 2022 11:17:55 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/service-package/terms/</guid><description>Các thuật ngữ sử dụng #
 Điểm #
 Là đơn vị sử dụng cho các hoạt động cung cấp, duy trì các dịch vụ phần mềm trên nền tảng GPS GoTrack.
+Mỗi tài khoản được cấp ví chứa số Điểm mà tài khoản đó sở hữu.
 Thiết bị #
   
-Là các thiết bị phần cứng kết nối với nền tảng GoTrack để quản lý, giám sát, theo dõi. Các thiết bị này có thể là Hộp đen định vị hoặc Camera.</description></item><item><title>Các loại gói dịch vụ</title><link>https://kb.gotrack365.com/vi/platform/service-package/packages/</link><pubDate>Wed, 20 Apr 2022 17:09:26 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/service-package/packages/</guid><description>Gói dịch vụ GPS #
+Là các thiết bị phần cứng kết nối với nền tảng GoTrack để quản lý, giám sát, theo dõi.</description></item><item><title>Các loại gói dịch vụ</title><link>https://kb.gotrack365.com/vi/platform/service-package/packages/</link><pubDate>Wed, 20 Apr 2022 17:09:26 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/service-package/packages/</guid><description>Gói dịch vụ GPS #
 Tên gói Mô tả Bike-S3-D12 Quản lý, giám sát xe máy
 Tắt/mở máy từ xa qua app
 Lưu trữ hành trình 3 tháng Car-S3-D13 Quản lý, giám sát ô tô, đáp ứng QCVN31, ND10
@@ -27,4 +28,8 @@ Khi thực hiện giao dịch, số Điểm được tính dựa theo Gói dịc
 Các bước thực hiện như sau:
 Vào trang Kinh Doanh Chọn tab Camera Nhấn nút Tạo Camera Nhập thông tin trên form. Nhấn nút Thêm để thực hiện
 2. Gia hạn Camera #
-Là giao dịch cho phép Gia hạn dịch vụ Camera.</description></item><item><title>Giao dịch Add-On</title><link>https://kb.gotrack365.com/vi/platform/service-package/transaction-addon/</link><pubDate>Wed, 20 Apr 2022 17:34:43 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/service-package/transaction-addon/</guid><description>Đang cập nhật &amp;hellip;</description></item></channel></rss>
+Là giao dịch cho phép Gia hạn dịch vụ Camera.</description></item><item><title>Giao dịch Add-On</title><link>https://kb.gotrack365.com/vi/platform/service-package/transaction-addon/</link><pubDate>Wed, 20 Apr 2022 17:34:43 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/service-package/transaction-addon/</guid><description>Đang cập nhật &amp;hellip;</description></item><item><title>Câu hỏi thường gặp</title><link>https://kb.gotrack365.com/vi/platform/service-package/faq/</link><pubDate>Tue, 26 Apr 2022 11:49:16 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/service-package/faq/</guid><description>1. Tại sao không Thêm được Thiết bị ? #
+Vui lòng kiểm tra các yếu tố sau:
+Tài khoản của bạn có quyền Thêm thiết bị Số dư Điểm đủ để thêm Thiết bị với Gói dịch vụ tương ứng 2. Tại sao không Gia hạn được Thiết bị ? #
+Vui lòng kiểm tra các yếu tố sau:
+Tài khoản của bạn có quyền Gia hạn thiết bị Số dư Điểm đủ để gia hạn tương ứng với Gói dịch vụ đang sử dụng.</description></item></channel></rss>
