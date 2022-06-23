@@ -14,4 +14,16 @@ Người dùng vào email trong Gmail trên máy tính của bạn.</description
 Sau khi tạo tài khoản xong, người dùng có thể tìm kiếm / thêm / sửa / đổi mật khẩu / xóa tạo khoản.
 Click vào Quản lý &amp;gt; Tài khoản để thực hiện các chức năng trong quản lý tài khoản.
 Quyền truy cập :
-Tính năng này cho phép nhà cung cấp dịch vụ, đại lý cấp quyền truy cập vào tài khoản của mình cho nhiều nhân viên / khách hàng cùng một lúc.</description></item></channel></rss>
+Tính năng này cho phép nhà cung cấp dịch vụ, đại lý cấp quyền truy cập vào tài khoản của mình cho nhiều nhân viên / khách hàng cùng một lúc.</description></item><item><title>Cây tài khoản</title><link>https://kb.gotrack365.com/vi/platform/account/account-tree/</link><pubDate>Wed, 22 Jun 2022 08:36:27 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/account/account-tree/</guid><description>Cây tài khoản #
+Icon #
+Tài khoản đầu tiên, trên cùng là tài khoản cha/cấp trên.
+Trong tài khoản cha/cấp trên là tài khoản nhà phân phối.
+Tài khoản thường.
+❗ Lưu ý : Chỉ khi đăng nhập tài khoản là nhà phân phối mới có màn hình này.
+Hiển thị #
+Ví dụ : developer (0/15). Trong đó
+developer : Tên tài khoản đăng nhập.</description></item><item><title>Tài khoản phụ</title><link>https://kb.gotrack365.com/vi/platform/account/account-auxilia/</link><pubDate>Wed, 22 Jun 2022 14:09:31 +0700</pubDate><guid>https://kb.gotrack365.com/vi/platform/account/account-auxilia/</guid><description>Tài khoản phụ #
+Vai trò phụ #
+Tài khoản phụ được tạo ra từ tài khoản chính và được liên kết với tài khoản chính.
+Tài khoản phụ có nhiều chức năng khác nhau và có thể thay đổi đáng kể tùy thuộc vào vị trí của chúng và mục tiêu của chúng là gì.
+Để cấp quyền cho tài khoản phụ vào chức năng nào thì thực hiện như sau :</description></item></channel></rss>
